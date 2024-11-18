@@ -1,0 +1,4 @@
+# Configurações padrão do jogo
+DEFAULT_MAP_SIZE = 20
+DEFAULT_DICE_SIDES = 6
+DEFAULT_ROUNDS = 5
