@@ -1,0 +1,5 @@
+
+#caches#
+characters/__pycache__/
+game_config/__pycache__/
+game_engine/__pycache__/
