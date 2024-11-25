@@ -5,6 +5,7 @@ from game_engine.dice import Dice
 from game_engine.map import Map
 from game_engine.ranking import Ranking
 from game_config.settings import DEFAULT_MAP_SIZE, DEFAULT_ROUNDS
+import random
 
 class RPGGame:
     def __init__(self):
