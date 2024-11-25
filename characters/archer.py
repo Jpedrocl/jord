@@ -1,4 +1,4 @@
-from .base_character import Character
+from .base_characters import Character
 import random
 
 class Archer(Character):
