@@ -1,5 +1,10 @@
 import unittest
 from game_engine.game_controller import RPGGame
+from game_engine.dice import Dice
+from characters.warrior import Warrior
+from characters.mage import Mage
+from characters.archer import Archer
+from game_engine.ranking import Ranking
 
 class TestRPGGame(unittest.TestCase):
     def test_setup_game(self):
